@@ -1,0 +1,13 @@
+{
+  "name": "azure-login-npm",
+  "version": "1.0.0",
+  "description": "Azure login package using MSAL",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["azure", "login", "msal", "authentication"],
+  "author": "Abbas Adam Az Zuhri <abbasadamazuhri@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/msal-node": "^2.7.0"
+  }
+}
